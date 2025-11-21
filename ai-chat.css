@@ -70,7 +70,7 @@ h1 {
 }
 
 .user-message {
-  background: #3b82f6;
+  background: #000000;
   color: white;
   align-self: flex-end;
   margin-left: auto;
@@ -100,12 +100,12 @@ h1 {
 
 #user-input:focus {
   outline: none;
-  border-color: #3b82f6;
+  border-color: #000000;
 }
 
 #send-button {
   padding: 12px 24px;
-  background: #3b82f6;
+  background:  #dad153;
   color: white;
   border: none;
   border-radius: 8px;
@@ -117,11 +117,11 @@ h1 {
 }
 
 #send-button:hover {
-  background: #2563eb;
+  background: #000000;
 }
 
 #send-button:active {
-  background: #1d4ed8;
+  background: #000000;
 }
 
 #send-button:disabled {
@@ -157,7 +157,7 @@ h1 {
 
 .prompt-section {
   background: #f0f9ff;
-  border: 2px solid #3b82f6;
+  border: 2px solid #000000;
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 16px;
@@ -165,7 +165,7 @@ h1 {
 
 .prompt-label {
   font-weight: 600;
-  color: #1e40af;
+  color: #000000;
   margin: 0 0 8px 0;
   font-size: 0.9rem;
 }
@@ -177,11 +177,11 @@ h1 {
   color: #374151;
   font-style: italic;
   margin: 0 0 12px 0;
-  border: 1px solid #bfdbfe;
+  border: 1px solid  #dad153;
 }
 
 .template-button {
-  background: #3b82f6;
+  background: #000000;
   color: white;
   border: none;
   padding: 8px 16px;
@@ -193,16 +193,16 @@ h1 {
 }
 
 .template-button:hover {
-  background: #2563eb;
+  background: #dad153;
 }
 
 .template-button:active {
-  background: #1d4ed8;
+  background: #dad153;
 }
 
 .prompt-section {
   background: #f0f9ff;
-  border: 2px solid #3b82f6;
+  border: 2px solid #dad153;
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 16px;
@@ -210,7 +210,7 @@ h1 {
 
 .prompt-label {
   font-weight: 600;
-  color: #1e40af;
+  color: #dad153;
   margin: 0 0 8px 0;
   font-size: 0.9rem;
 }
@@ -219,14 +219,14 @@ h1 {
   background: white;
   padding: 12px;
   border-radius: 6px;
-  color: #374151;
+  color: #dad153;
   font-style: italic;
   margin: 0 0 12px 0;
-  border: 1px solid #bfdbfe;
+  border: 1px solid #ffffff;
 }
 
 .template-button {
-  background: #3b82f6;
+  background: #000000;
   color: white;
   border: none;
   padding: 8px 16px;
@@ -238,9 +238,9 @@ h1 {
 }
 
 .template-button:hover {
-  background: #2563eb;
+  background: #000000;
 }
 
 .template-button:active {
-  background: #1d4ed8;
+  background: #000000;
 }
